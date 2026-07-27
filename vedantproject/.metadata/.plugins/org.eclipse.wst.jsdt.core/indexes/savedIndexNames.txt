@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\lenovo\eclipse-workspace\vedantproject\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1934116825.index
+2520224154.index
+4169510197.index
+2779629487.index
+3044548027.index
